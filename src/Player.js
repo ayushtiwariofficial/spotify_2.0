@@ -15,4 +15,5 @@ function Player({ spotify }) {
     </div>
   );
 }
+
 export default Player;

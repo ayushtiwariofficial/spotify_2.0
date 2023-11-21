@@ -1,27 +1,25 @@
 *{
     padding: 0;
     margin: 0;
-    /* background-image: url("../public/background.png"); */
-    background-color: #1db954;
 }
 
-.login{
+.login {
     display: grid;
     place-items: center;
     height: 100vh;
-}
-
-.login > img {
+    background-color: black;
+  }
+  
+  .login > img {
     width: auto;
     height: 200px;
-    /* background:linear-gradient(120deg, #1db954, #191414); */
-}
-
-.login > a {
+  }
+  
+  .login > a {
     padding: 20px;
-    color: #1db954;
-    text-decoration: none;
     border-radius: 99px;
-    background-color: white;
     font-weight: 600;
-}
+    color: white;
+    text-decoration: none;
+    background-color: #1db954;
+  }
