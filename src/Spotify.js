@@ -1,7 +1,7 @@
 // spotify.js
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/"; // Make sure this matches your Spotify Application's redirect URI
+const redirectUri = "https://ayushtiwariofficial.github.io/spotify_webApp/"; // Make sure this matches your Spotify Application's redirect URI
 const clientId = "5e0dc985280e493c9e8a0fb7e599668d";
 
 const scopes = [
